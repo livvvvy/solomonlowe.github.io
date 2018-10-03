@@ -1,9 +1,14 @@
 body {
   font-family: "Verdana";
-  background-color: DimGrey;
+  background-color: #17202A;
 }
 
 div_title {
   text-align: center;
-  color: white;
+  color: #AAB7B8;
+}
+
+div_body {
+  text-align: left;
+  color: #B3B6B7;
 }
