@@ -6,9 +6,10 @@ body {
 div_title {
   text-align: center;
   color: #AAB7B8;
+
 }
 
-div_body {
+div_para {
   text-align: left;
   color: #B3B6B7;
 }
