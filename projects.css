@@ -12,10 +12,3 @@ div_para {
   text-align: left;
   color: #B3B6B7;
 }
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%
-}
